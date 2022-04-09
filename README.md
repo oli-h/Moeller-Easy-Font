@@ -18,22 +18,24 @@ the same characters as plain text:
 ```
 abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-0123456789  -+*()  : @ [ ]
+0123456789
+$%&+,.(){|}
+: @ [ ]
 ```
 ### Character-Map
 *but you already see all mappings in the pictures above*
 
-| Char      | Moeller-Glyph    |
-|-----------|------------------|
-| a-z       | A-Z              |
-| A-Z       | A-Z *negation*   |
-| 0-9       | 0-9              |
-| - + * ( ) | wire lines       |
-| :         | : *(jump mark)*  |
-| @         | clock            |
-| [         | Coil *Contactor* |
-| ]         | Coil *Impulse*   |
-| <space>   | also <space>     |
+| Char                       | Moeller-Glyph    |
+|----------------------------|------------------|
+| a-z                        | A-Z              |
+| A-Z                        | A-Z *negation*   |
+| 0-9                        | 0-9              |
+| $ % & + , . ( ) { &#124; } | wire lines       |
+| :                          | : *(jump mark)*  |
+| @                          | clock            |
+| [                          | Coil *Contactor* |
+| ]                          | Coil *Impulse*   |
+| *\<space>*                 | also *\<space>*  |
 
 ## Example usage: documentation in *LibreOffice Calc*
 ![](img/example.png)
