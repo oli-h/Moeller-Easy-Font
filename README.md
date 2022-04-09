@@ -10,8 +10,10 @@ Therefore the products are now named *Eaton easy* - though you still find a lot 
 
 ## Glyphs contained in the font
 ![Font-Moeller.png](img/Font-Moeller.png)
+
 compare with typoscal Glyphs at those code points:
 ![Font-standard.png](img/Font-standard.png)
+
 the same characters as plain text:
 ```
 abcdefghijklmnopqrstuvwxyz
