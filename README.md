@@ -37,5 +37,9 @@ $%&+,.(){|}
 | ]                          | Coil *Impulse*   |
 | *\<space>*                 | also *\<space>*  |
 
+Notes
+- avoided use if minus- and equal-symbols as they lead to 'fornula' in LibreOffice Cls (and Excel)
+- tried to find optical similar code points - but this was not always possible
+
 ## Example usage: documentation in *LibreOffice Calc*
 ![](img/example.png)
