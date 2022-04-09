@@ -11,7 +11,7 @@ Therefore the products are now named *Eaton easy* - though you still find a lot 
 ## Glyphs contained in the font
 ![Font-Moeller.png](img/Font-Moeller.png)
 
-compare with typoscal Glyphs at those code points:
+compare with typical Glyphs at those code points:
 ![Font-standard.png](img/Font-standard.png)
 
 the same characters as plain text:
@@ -23,7 +23,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### Character-Map
 *but you already see all mappings in the pictures above*
 
-| Char      | Moeller-Gyph     |
+| Char      | Moeller-Glyph    |
 |-----------|------------------|
 | a-z       | A-Z              |
 | A-Z       | A-Z *negation*   |
